@@ -1,0 +1,62 @@
+{
+  "programming languages": [
+    "Python", "Java", "C", "C++", "C#", "PHP", "JavaScript", "TypeScript",
+    "Go", "Kotlin", "Swift", "Dart", "Ruby", "Rust", "R", "SQL", "Bash",
+    "PowerShell", "Scala", "Perl", "Lua", "Objective-C", "MATLAB",
+    "Node"
+  ],
+  "web": [
+    "HTML", "CSS", "React", "Angular", "Vue", "Next.js", "Django", "Flask",
+    "Spring Boot", "ASP.NET", "Express.js", "FastAPI", "Laravel", "Bootstrap",
+    "Tailwind CSS", "jQuery", "Svelte", "React Native", "Flutter", "REST API",
+    "REST APIs", "GraphQL", "Responsive Design", "Web Development",
+    "Front End", "Front End Development", "Backend Development",
+    "Full Stack Development", "API Development", "Web Interfaces",
+    "Responsive Web Layouts",     "Ruby on Rails",
+    "Microservices"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "SQLite", "MongoDB", "Redis", "Cassandra",
+    "MariaDB", "Oracle Database", "SQL Server", "DynamoDB", "Elasticsearch",
+    "Firebase", "Supabase", "Snowflake", "BigQuery", "Redshift", "Neo4j",
+    "Database Management", "Database Design", "Relational Database",
+    "Data Modeling", "ETL", "Data Warehousing", "Apache Hive"
+  ],
+  "cloud/devops": [
+    "AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Linux",
+    "CI/CD", "Continuous Integration", "Continuous Deployment", "Jenkins",
+    "GitHub Actions", "GitLab CI", "Terraform", "Ansible", "Helm", "Nginx",
+    "Cloud Computing", "DevOps", "Serverless",
+    "Amazon S3", "EC2", "Vercel", "Netlify", "Prometheus", "Grafana",
+    "Infrastructure as Code"
+  ],
+  "data/AI": [
+    "Machine Learning", "Deep Learning", "Artificial Intelligence",
+    "Natural Language Processing", "Computer Vision", "Data Analysis",
+    "Data Science", "Data Engineering", "Data Visualization",
+    "Statistical Analysis", "Text Preprocessing", "TF-IDF", "scikit-learn",
+    "Pandas", "NumPy", "Matplotlib", "TensorFlow", "PyTorch", "Keras",
+    "OpenCV", "Kafka", "Apache Spark", "Hadoop", "Feature Engineering",
+    "Predictive Modeling", "Neural Networks", "Generative AI", "Statistics",
+    "Business Intelligence", "Tableau", "Power BI", "Excel",
+    "A/B Testing", "Recommendation Systems"
+  ],
+  "tools": [
+    "Streamlit", "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Trello", "Postman",
+    "Visual Studio Code", "IntelliJ IDEA", "Eclipse", "PyCharm", "Jupyter",
+    "Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint", "Figma",
+    "Adobe Photoshop", "Adobe Illustrator", "Tableau", "Power BI", "Excel",
+    "Slack", "Confluence", "Maven", "Gradle", "npm", "Yarn", "Make",
+    "Version Control", "Quality Assurance", "Software Testing"
+  ],
+  "soft skills": [
+    "Communication Skills", "Problem Solving", "Critical Thinking",
+    "Time Management", "Team Collaboration", "Leadership", "Teamwork",
+    "Adaptability", "Creativity", "Attention to Detail", "Conflict Resolution",
+    "Decision Making", "Organization Skills", "Interpersonal Skills",
+    "Customer Service", "Project Management", "Agile Methodology",
+    "User Experience", "Software Development", "Software Engineering",
+    "Object Oriented Programming", "Data Structures", "Algorithm Design",
+    "Cyber Security", "Information Security"
+  ]
+}

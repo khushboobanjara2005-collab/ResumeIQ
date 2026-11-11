@@ -1,0 +1,82 @@
+[
+  {
+    "id": "backend-python",
+    "role": "Backend Python Developer",
+    "resume": "Built services with Python, Django, PostgreSQL, Docker, Git, and REST APIs.",
+    "job_description": "Seeking Python, Django, REST API, Docker, Kubernetes, PostgreSQL, Redis, and Git experience.",
+    "expected_matched": ["python", "django", "rest api", "docker", "postgresql", "git"],
+    "expected_missing": ["kubernetes", "redis"]
+  },
+  {
+    "id": "data-analyst",
+    "role": "Data Analyst",
+    "resume": "Used SQL, Excel, Tableau, and data analysis to prepare monthly reports.",
+    "job_description": "The analyst will use SQL, Excel, Tableau, Power BI, statistics, and Python.",
+    "expected_matched": ["sql", "excel", "tableau"],
+    "expected_missing": ["power bi", "statistics", "python"]
+  },
+  {
+    "id": "frontend-engineer",
+    "role": "Frontend Engineer",
+    "resume": "Created interfaces with React.js, JavaScript, CSS, HTML, and Git.",
+    "job_description": "Looking for React, TypeScript, Next.js, CSS, Node.js, and REST API experience.",
+    "expected_matched": ["react", "css"],
+    "expected_missing": ["typescript", "next.js", "node", "rest api"]
+  },
+  {
+    "id": "mobile-developer",
+    "role": "Mobile Developer",
+    "resume": "Created a Flutter app with Dart, Kotlin, and Firebase.",
+    "job_description": "Flutter, Dart, Firebase, Kotlin, and SQL are required.",
+    "expected_matched": ["flutter", "dart", "firebase", "kotlin"],
+    "expected_missing": ["sql"]
+  },
+  {
+    "id": "cloud-engineer",
+    "role": "Cloud Engineer",
+    "resume": "Automated AWS deployments with Docker, Terraform, Linux, and GitHub Actions.",
+    "job_description": "The role uses AWS, Docker, Kubernetes, Terraform, CI/CD, and Prometheus.",
+    "expected_matched": ["aws", "docker", "terraform"],
+    "expected_missing": ["kubernetes", "ci/cd", "prometheus"]
+  },
+  {
+    "id": "customer-support",
+    "role": "Customer Support Associate",
+    "resume": "Provided customer service, solved customer problems, and tracked cases in Excel.",
+    "job_description": "We value customer service, Excel, communication skills, problem solving, and time management.",
+    "expected_matched": ["customer service", "excel"],
+    "expected_missing": ["communication skills", "problem solving", "time management"]
+  },
+  {
+    "id": "marketing-coordinator",
+    "role": "Marketing Coordinator",
+    "resume": "Prepared campaign reports with Excel and Tableau and coordinated project timelines.",
+    "job_description": "Use Excel, Tableau, Power BI, communication skills, and project management.",
+    "expected_matched": ["excel", "tableau"],
+    "expected_missing": ["power bi", "communication skills", "project management"]
+  },
+  {
+    "id": "java-engineer",
+    "role": "Java Engineer",
+    "resume": "Developed services using Java, Spring Boot, MySQL, Git, and REST APIs.",
+    "job_description": "Java, Spring Boot, MySQL, Docker, Kafka, and Redis are useful.",
+    "expected_matched": ["java", "spring boot", "mysql"],
+    "expected_missing": ["docker", "kafka", "redis"]
+  },
+  {
+    "id": "machine-learning-intern",
+    "role": "Machine Learning Intern",
+    "resume": "Used Python, machine learning, Pandas, scikit-learn, and NumPy.",
+    "job_description": "Python, machine learning, Pandas, scikit-learn, SQL, and TensorFlow are required.",
+    "expected_matched": ["python", "machine learning", "pandas", "scikit-learn"],
+    "expected_missing": ["sql", "tensorflow"]
+  },
+  {
+    "id": "hr-assistant",
+    "role": "Human Resources Assistant",
+    "resume": "Organized employee records in Excel and supported customer service requests.",
+    "job_description": "The assistant will use Excel, customer service, communication skills, problem solving, and Tableau.",
+    "expected_matched": ["excel", "customer service"],
+    "expected_missing": ["communication skills", "problem solving", "tableau"]
+  }
+]
